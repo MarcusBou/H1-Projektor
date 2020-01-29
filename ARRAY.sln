@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARRAY", "ARRAY\ARRAY.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array øvelse 1", "Array øvelse 1\Array øvelse 1.csproj", "{EAC3D8FA-E494-4EA6-8DCD-D025BD79EF53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave om variabler", "..\opgave om variabler\opgave om variabler\opgave om variabler.csproj", "{C55CBB7B-09B6-4AC4-9A91-30A25638C197}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EAC3D8FA-E494-4EA6-8DCD-D025BD79EF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAC3D8FA-E494-4EA6-8DCD-D025BD79EF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAC3D8FA-E494-4EA6-8DCD-D025BD79EF53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55CBB7B-09B6-4AC4-9A91-30A25638C197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55CBB7B-09B6-4AC4-9A91-30A25638C197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55CBB7B-09B6-4AC4-9A91-30A25638C197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55CBB7B-09B6-4AC4-9A91-30A25638C197}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
