@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array øvelse 4", "Array ø
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array øvelse 3", "Array øvelse 3\Array øvelse 3.csproj", "{62768CF3-8454-40B8-82C3-39533040F2BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array and bubble sort", "Array and bubble sort\Array and bubble sort.csproj", "{89279FD5-71CC-4FE0-BCB9-2303BCE4D1E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{62768CF3-8454-40B8-82C3-39533040F2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62768CF3-8454-40B8-82C3-39533040F2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62768CF3-8454-40B8-82C3-39533040F2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89279FD5-71CC-4FE0-BCB9-2303BCE4D1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89279FD5-71CC-4FE0-BCB9-2303BCE4D1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89279FD5-71CC-4FE0-BCB9-2303BCE4D1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89279FD5-71CC-4FE0-BCB9-2303BCE4D1E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
