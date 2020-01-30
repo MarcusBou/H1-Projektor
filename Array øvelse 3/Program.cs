@@ -4,12 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace array_øvelse_2
+namespace Array_øvelse_3
 {
     class Program
     {
-
-        public static string[] drengenavne = { "William", "Oliver", "Noah", "Emil", "Victor", "Magnus", "Frederik", "Mikkel", "Lucas", "Alexander", "Oscar", "Mathias", "Sebastian", "Malthe", "Elias", "Christian", "Mads", "Gustav", "Villads", "Tobias", "Anton", "Carl", "Silas", "Valdemar", "Benjamin", "Nikolaj", "Marcus", "August", "Sander", "Jacob"  };
+        public static string[] drengenavne = { "William", "Oliver", "Noah", "Emil", "Victor", "Magnus", "Frederik", "Mikkel", "Lucas", "Alexander", "Oscar", "Mathias", "Sebastian", "Malthe", "Elias", "Christian", "Mads", "Gustav", "Villads", "Tobias", "Anton", "Carl", "Silas", "Valdemar", "Benjamin", "Nikolaj", "Marcus", "August", "Sander", "Jacob" };
 
         static void Main(string[] args)
         {

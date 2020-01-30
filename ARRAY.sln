@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Morsekode", "Morsekode\Mors
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array øvelse 2", "array øvelse 2\array øvelse 2.csproj", "{F00F9E74-BC41-46D4-8C51-7083CE5C8AB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array øvelse 4", "Array øvelse 4\Array øvelse 4.csproj", "{7059797E-B0FC-4231-B1FB-5EEBCA8CF2FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array øvelse 3", "Array øvelse 3\Array øvelse 3.csproj", "{62768CF3-8454-40B8-82C3-39533040F2BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{F00F9E74-BC41-46D4-8C51-7083CE5C8AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F00F9E74-BC41-46D4-8C51-7083CE5C8AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F00F9E74-BC41-46D4-8C51-7083CE5C8AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7059797E-B0FC-4231-B1FB-5EEBCA8CF2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7059797E-B0FC-4231-B1FB-5EEBCA8CF2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7059797E-B0FC-4231-B1FB-5EEBCA8CF2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7059797E-B0FC-4231-B1FB-5EEBCA8CF2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62768CF3-8454-40B8-82C3-39533040F2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62768CF3-8454-40B8-82C3-39533040F2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62768CF3-8454-40B8-82C3-39533040F2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62768CF3-8454-40B8-82C3-39533040F2BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
