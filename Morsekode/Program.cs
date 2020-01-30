@@ -21,7 +21,7 @@ namespace Morsekode
             for (int i = 0; i < sætningArr.Length; i++)
             {
                 Console.WriteLine(sætningArr[i]);
-                
+                sætningArr[i].CompareTo(alfabet[i]);
             }
             Console.ReadKey();
         }
