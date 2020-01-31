@@ -10,7 +10,7 @@ namespace Array_øvelse_4
     {
         static void Main(string[] args)
         {
-            int[,] arr = { { 1, 2, 3 }, { 4, 5, 6 }, { 7,8,9 } };
+            int[,] arr = new int[16,11] { { 1, 2, 3 }, { 4, 5, 6 }, { 7,8,1,1,1,1,1,1,1,1,1 } };
 
             for (int i = 0; i < 3; i++)
             {
